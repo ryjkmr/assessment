@@ -27,7 +27,7 @@
         removeAllChildren(resultDivided);
         removeAllChildren(tweetDivided);
 
-        /*    while (resultDivided.firstChild) {//子供の要素がある限り削除
+        /*    while (resultDivided.firstChild) {//子供の要素がある限り削除する
                resultDivided.removeChild(resultDivided.firstChild);
            }
     */
